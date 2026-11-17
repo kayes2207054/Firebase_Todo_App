@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "123456789012",
-    "project_id": "firebase-todo-app-kuet",
-    "storage_bucket": "firebase-todo-app-kuet.appspot.com"
+    "project_number": "226859237139",
+    "project_id": "fir-todo-app-a9fbc",
+    "storage_bucket": "fir-todo-app-a9fbc.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:123456789012:android:9876543210fedcba",
+        "mobilesdk_app_id": "1:226859237139:android:db72d08c3c8935947264e6",
         "android_client_info": {
           "package_name": "com.todoapp.firebase_integrated_todo_app"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyB_placeholder_api_key_android_123"
+          "current_key": "AIzaSyCAK8aGEGCEceAnBMoRVulyC1puQEUx96A"
         }
       ],
       "services": {

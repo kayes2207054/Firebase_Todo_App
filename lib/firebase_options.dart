@@ -2,6 +2,9 @@ import 'package:firebase_core/firebase_core.dart' show FirebaseOptions;
 import 'package:flutter/foundation.dart'
     show defaultTargetPlatform, kIsWeb, TargetPlatform;
 
+/// Default [FirebaseOptions] for use with your Firebase apps.
+///
+/// Generated from Firebase project `fir-todo-app-a9fbc` (Firebase-Todo-App).
 class DefaultFirebaseOptions {
   static FirebaseOptions get currentPlatform {
     if (kIsWeb) {
@@ -18,28 +21,28 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyA_placeholder_api_key_web_12345',
-    appId: '1:123456789012:web:abcdef1234567890',
-    messagingSenderId: '123456789012',
-    projectId: 'firebase-todo-app-kuet',
-    authDomain: 'firebase-todo-app-kuet.firebaseapp.com',
-    storageBucket: 'firebase-todo-app-kuet.appspot.com',
+    apiKey: 'AIzaSyCAK8aGEGCEceAnBMoRVulyC1puQEUx96A',
+    appId: '1:226859237139:web:c6e5a4f3b2a10987',
+    messagingSenderId: '226859237139',
+    projectId: 'fir-todo-app-a9fbc',
+    authDomain: 'fir-todo-app-a9fbc.firebaseapp.com',
+    storageBucket: 'fir-todo-app-a9fbc.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB_placeholder_api_key_android_123',
-    appId: '1:123456789012:android:9876543210fedcba',
-    messagingSenderId: '123456789012',
-    projectId: 'firebase-todo-app-kuet',
-    storageBucket: 'firebase-todo-app-kuet.appspot.com',
+    apiKey: 'AIzaSyCAK8aGEGCEceAnBMoRVulyC1puQEUx96A',
+    appId: '1:226859237139:android:db72d08c3c8935947264e6',
+    messagingSenderId: '226859237139',
+    projectId: 'fir-todo-app-a9fbc',
+    storageBucket: 'fir-todo-app-a9fbc.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC_placeholder_api_key_ios_12345',
-    appId: '1:123456789012:ios:1234567890abcdef',
-    messagingSenderId: '123456789012',
-    projectId: 'firebase-todo-app-kuet',
-    storageBucket: 'firebase-todo-app-kuet.appspot.com',
+    apiKey: 'AIzaSyCAK8aGEGCEceAnBMoRVulyC1puQEUx96A',
+    appId: '1:226859237139:ios:db72d08c3c8935947264e6',
+    messagingSenderId: '226859237139',
+    projectId: 'fir-todo-app-a9fbc',
+    storageBucket: 'fir-todo-app-a9fbc.firebasestorage.app',
     iosBundleId: 'com.todoapp.firebaseIntegratedTodoApp',
   );
 }

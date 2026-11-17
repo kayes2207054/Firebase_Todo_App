@@ -99,7 +99,16 @@ e:\Firebase_Todo_App\
 
 ---
 
-## 🔒 Firebase Integration & Security Rules
+## 🔒 Firebase Integration & Live Cloud Backend
+
+### Live Project Details
+- **Firebase Project Name**: `Firebase-Todo-App`
+- **Project ID**: `fir-todo-app-a9fbc`
+- **Project Number**: `226859237139`
+- **Registered Android App**: `com.todoapp.firebase_integrated_todo_app` (App ID: `1:226859237139:android:db72d08c3c8935947264e6`)
+- **Authentication**: Email/Password Provider Enabled & Verified
+- **Cloud Firestore**: Database `(default)` Provisioned & Deployed
+- **Configuration**: Genuine `google-services.json` and `lib/firebase_options.dart` fully synchronized
 
 ### Firestore Security Rules (`firestore.rules`)
 ```javascript
